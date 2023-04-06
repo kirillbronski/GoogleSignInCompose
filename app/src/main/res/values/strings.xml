@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GoogleSignInCompose</string>
+    <string name="web_client_id">696570535253-ljqe5kvmtbocaro5ir17omj6342hgd3t.apps.googleusercontent.com</string>
 </resources>
